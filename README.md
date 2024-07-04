@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  👋  Hello, Devs!!
 🔭 Meu nome é Gabriel e atualmente sou estudante <br>🌱 Faço Bacharelado em Tecnologia da Informação na UNIVESP<br>😄 Tenho 25 anos e sou fascinado por tecnologia<br>⚡ Atualmente estudo o ambiente .Net e C#
 
 
